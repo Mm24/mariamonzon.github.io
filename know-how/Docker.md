@@ -76,3 +76,8 @@ A Dockerfile specifies the commands needed for constructing a Docker image. Each
     # Script to execute
     CMD ["gunicorn", "-b", "0.0.0.0:8080", "-w", "1","-t", "1200", "deploy.app:create_app()"]
 
+## Docker Registries
+It is usually advisable to use base images provided on dedicated servers, so-called Docker Registries. 
+The most important external registry (and the default registry used by Docker) is Docker Hub, provided by Docker, Inc., the creators of the Docker software. 
+
+The Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license. You can find the source code on GitHub.
