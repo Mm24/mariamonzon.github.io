@@ -4,6 +4,26 @@ A Docker container is a file system which is created on top of the host machine.
 
 An image is a blueprint for building a container. An arbitrary number of containers can be built from one image. Each image is built on top of a parent image by executing a list of commands specified in a Dockerfile.
 
+## [Installation](https://docs.docker.com/engine/install/ubuntu/)
+
+``` bash
+$ sudo apt-get update && apt-get install \
+  ca-certificates \
+  curl \
+  gnupg \
+  lsb-release
+
+#  Add Docker’s official GPG key:
+$ sudo mkdir -p /etc/apt/keyrings
+$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+
+# Set up the repository:
+$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+$ (lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+# Install docker engine
+$sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+```
 
 ## Dockerfile Basic Commands 
 Comment lines in Dockerfiles start with #.
