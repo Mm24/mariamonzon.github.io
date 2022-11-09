@@ -1,4 +1,7 @@
 # Data Version Control (DVC)
+<p align="center">
+  <img src="https://miro.medium.com/max/700/1*gN7Xru3A-PTavPI6adpJPQ.png?raw=true" alt="DVC BAnner"/>
+</p>
 
 ## Initializing DVC and configuring remote storage
 
@@ -20,7 +23,7 @@ dvc remote add -d ${DVC_REMOTE} ${DVC_REMOTE_URL}
 
 # Set up remote configurations
 dvc remote modify ${DVC_REMOTE} 
-dvc remote modify ${DVC_REMOTE}  custom_auth_header X-Token 
+dvc remote modify ${DVC_REMOTE} custom_auth_header X-Token 
 
 dvc remote modify --local  ${DVC_REMOTE} password ${GIT_ACCESS_TOKEN}
 cat .dvc/config
@@ -32,38 +35,44 @@ git commit -m "sets remote storage configuration"
 
 
 ```
-echo " Example Large file" > large_file.txt
-#  Should  create a large_file.txt.dvc files and updates the .gitignore 
-dvc add large_file.txt 
+FILENAME=large_file.txt
+echo " Example Large file" > ${FILENAME} 
+#  Should  create a ${FILENAME}.dvc files and updates the .gitignore 
+dvc add ${FILENAME}.txt 
 git add .
-git commit -m "adds example file"
+git commit -m "adds example file ${FILENAME}"
 ```
 We can later modify the file data and  that git does not track the file 
+
 ```
-echo "Add more example data" >> large_file.txt
-dvc add large_data.txt
-git commit -a -m - "modify example file" 
+echo "Add more example data" >> ${FILENAME} 
+dvc add ${FILENAME} 
+git commit -a -m - "modify example file ${FILENAME}" 
 ```
 
 ### Restore files DVC and Git older versions
 To restore a file  to its former glory, use git checkout from the last known commit, which is HEAD. This command can be used anytime to go back again to the latest version using:
+
 ```
-git checkout HEAD filename
+git checkout HEAD ${FILENAME} 
 dvc checkout 
-git commit -m 'restoring filename from last commit.'
+git commit -m 'restoring ${FILENAME} from last commit.'
 ```
 
-To recover a file from a specific (older) git commit 
+To recover a file from a specific (older) git commit. Select the desired commit sha from logs 
 
 ```
 git log –oneline
-# Select the desired  commit sha
 sha=<commithash>
-git checkout ${sha} large_file.txt.dvc
-# DVC recognize the updated large_file.txt.dvc and brings the old data version
-dvc checkout 
-git commit -m 'restoring filename from last commit.'
 ```
+Go back to that Git commit DVC file history. DVC recognize the updated  ${FILENAME}.dvc and brings the old data version
+
+```
+git checkout ${sha} ${FILENAME}.dvc
+dvc checkout 
+git commit -m 'restoring filename from ${sha} commit.'
+```
+
 ### Updating and versioning data across projects
 
 ```
@@ -71,12 +80,12 @@ git remote -v
 git remote add dataset ${GIT_CLONE_URL}
 #Update all branches from all remotes 
 git fetch --all
-git checkout dataset/${GIT_BRANCH} ${TARGET_FILE}.dvc 
+git checkout dataset/${GIT_BRANCH} ${FILENAME}.dvc 
 git status
 git add .
-git commit -m "updates new ${TARGET_FILE}.dvc file"
-
-dvc pull # New data version is downloaded from  a DVC remote
+git commit -m "updates new ${FILENAME}.dvc file".
+# New data version is downloaded from  a DVC remote
+dvc pull 
 ```
   
 ##  DVC workflow
