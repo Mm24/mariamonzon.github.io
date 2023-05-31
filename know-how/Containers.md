@@ -101,3 +101,37 @@ It is usually advisable to use base images provided on dedicated servers, so-cal
 The most important external registry (and the default registry used by Docker) is Docker Hub, provided by Docker, Inc., the creators of the Docker software. 
 
 The Registry is a stateless, highly scalable server side application that stores and lets you distribute Docker images. The Registry is open-source, under the permissive Apache license. You can find the source code on GitHub.
+
+
+# Singularity
+
+Singularity is a container platform that allows software engineers and researchers to easily share their work with others by packaging and deploying their software applications in a portable and reproducible manner. When you download a Singularity container image, you essentially receive a virtual computer disk that contains all of the necessary software, libraries and configuration to run one or more applications or undertake a particular task, e.g. to support a specific research project. This saves you the time and effort of installing and configuring software on your own system or setting up a new computer from scratch, as you can simply run a Singularity container from the image and have a virtual environment that is identical to the one used by the person who created the image. Container platforms like Singularity provide a convenient and consistent way to access and run software and tools. Singularity is increasingly widely used in the research community for supporting research projects as it allows users to isolate their software environments from the host operating system and can simplify tasks such as running multiple experiments simultaneously.
+
+You may be familiar with Docker, another container platform that is now used widely. If you are, you will see that in some ways, Singularity is similar to Docker. However, in others, particularly in the system’s architecture, it is fundamentally different. These differences mean that Singularity is particularly well-suited to running on distributed, High Performance Computing (HPC) infrastructure, as well as a Linux laptop or desktop!
+
+## [Installation](https://docs.sylabs.io/guides/3.0/user-guide/installation.html#install-on-linux)
+
+
+``` bash
+$ sudo apt-get update && sudo apt-get install -y \
+    build-essential \
+    libssl-dev \
+    uuid-dev \
+    libgpgme11-dev \
+    squashfs-tools \
+    libseccomp-dev \
+    pkg-config
+    
+ # Install Go and set up environment
+ $ export VERSION=1.11 OS=linux ARCH=amd64 && \
+    wget https://dl.google.com/go/go$VERSION.$OS-$ARCH.tar.gz && \
+    sudo tar -C /usr/local -xzvf go$VERSION.$OS-$ARCH.tar.gz && \
+    go get -u github.com/golang/dep/cmd/dep && \
+    rm go$VERSION.$OS-$ARCH.tar.gz
+    
+$ echo 'export GOPATH=${HOME}/go' >> ~/.bashrc && \
+    echo 'export PATH=/usr/local/go/bin:${PATH}:${GOPATH}/bin' >> ~/.bashrc && \
+    source ~/.bashrc
+
+$ sudo apt-get install -y singularity-container
+``` 
