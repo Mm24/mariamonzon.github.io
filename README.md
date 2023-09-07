@@ -13,7 +13,7 @@
 ## About Me  👩‍🎓  
 
 - 👩 My name is Maria Monzon, a curious mind from  and I'm a PhD researcher in the intersection of AI, neuroimaging and neurology at ETH Zurich.
-- 👨‍💻 I'm was preiously working full-time as Computer Vision Engineer & DL Researcher in Advance Imaging at [BASF Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
+- 👨‍💻 I'm was previously working full-time as Computer Vision Engineer & DL Researcher in Advance Imaging at [BASF Hub](https://www.linkedin.com/showcase/basf-digital-solutions/)
 - 🎓 MSc with Honors on Biomedical Engineerig at Friedrich Alexander University with strond focus on image and data processing. 
 - 🧠 Expertise in Image Procesing and Machine Learning and Statistics: 
     - ✔️ *Medical Imaging and Bio-Signal Processing*
