@@ -1,25 +1,6 @@
 # The Scrum Guide
 
-The Definitive Guide to Scrum: The Rules of the Game
-
-![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
-
-© 2020 Ken Schwaber and Jeff Sutherland
-This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at https://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at https://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
-
-## Purpose of the Scrum Guide
-
-We developed Scrum in the early 1990s. We wrote the first version of the Scrum Guide in 2010 to help people worldwide understand Scrum. We have evolved the Guide since then through small, functional updates. Together, we stand behind it.
-
-The Scrum Guide contains the definition of Scrum. Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum. Changing the core design or ideas of Scrum, leaving out elements, or not following the rules of Scrum, covers up problems and
-limits the benefits of Scrum, potentially even rendering it useless. 
-
-We follow the growing use of Scrum within an ever-growing complex world. We are humbled to see Scrum being adopted in many domains holding essentially complex work, beyond software product development where Scrum has its roots. As Scrum’s use spreads, developers, researchers, analysts, scientists, and other specialists do the work. We use the word “developers” in Scrum not to exclude, but to simplify. If you get value from Scrum, consider yourself included.
-
-As Scrum is being used, patterns, processes, and insights that fit the Scrum framework as described in this document, may be found, applied and devised. Their description is beyond the purpose of the Scrum Guide because they are context sensitive and differ widely between Scrum uses. Such tactics for
-using within the Scrum framework vary widely and are described elsewhere. 
-
-Ken Schwaber & Jeff Sutherland November 2020
+The Definitive Guide to Scrum: The Rules of the Game © 2020 Ken Schwaber and Jeff Sutherland
 
 ## Scrum Definition
 
@@ -35,6 +16,17 @@ Scrum is simple. Try it as is and determine if its philosophy, theory, and struc
 
 Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
+
+## Essential elements of Scrum Framework
+![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
+
+Scrum framework consists of roles, artifacts, and events. Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt. Let’s deep dive into Scrum.
+
+Let’s begin with roles — there are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. Developers are accountable for creating increments for every Sprint that meets the definition of done. Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+
+Next, the artifacts — Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product. Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
+
+Now the events — Sprint is a container event that consists of all four other events. Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it. Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary. Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work. Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
 ## Scrum Theory
 
 Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
