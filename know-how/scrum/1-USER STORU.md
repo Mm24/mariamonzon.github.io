@@ -1,4 +1,4 @@
-# Agile Development
+# Agile Concepts
 
 Agile development uses four clear delivery methods to bring structure to any project: versions, sprints, epics, and user stories
 
