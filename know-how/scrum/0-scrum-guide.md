@@ -2,80 +2,67 @@
 
 The Definitive Guide to Scrum: The Rules of the Game © 2020 Ken Schwaber and Jeff Sutherland
 
-## Scrum Definition
-
-Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. 
-
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
-* A Product Owner orders the work for a complex problem into a Product Backlog.
-* The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-* The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-* Repeat
-
-Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions
-
-Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
-
-## Scrum Theory
-
-Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
-
-Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
-
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
-
-### Transparency
-
-The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
-
-Transparency enables inspection. Inspection without transparency is misleading and wasteful.
-
-### Inspection
-
-The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events. Inspection enables adaptation. 
-
-Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
-
-### Adaptation
-
-f any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
-
-Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
-
-## Essential elements of Scrum Framework
 
 ![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
 
 
-Scrum framework consists of roles, artifacts, and events. 
 
-Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt
 
-### Scrum Roles
+## Scrum Definition
 
-There are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. 
-* Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. 
-* Developers are accountable for creating increments for every Sprint that meets the definition of done. 
-* Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. 
+Scrum is simple. Try it as is and determine if its philosophy, theory, and structure help to achieve goals and create value. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory. Scrum is built upon by the collective intelligence of the people using it. Rather than provide people with detailed instructions, the rules of Scrum guide their relationships and interactions
 
-### Scrum Artifacts
+Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
-Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product.
-Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
+Scrum framework consists of roles, artifacts, and events. Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt
 
-### Scrum Events
+*  __ROLES__:  There are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. 
+    * Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. 
+    * Developers are accountable for creating increments for every Sprint that meets the definition of done.
+    * Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+  
+*  __ARTIFACTS__:
+    * Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product.
+    * Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal.
+    *Increment is the sum of all the work done by the team so far.
 
-Now the events — Sprint is a container event that consists of all four other events. Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it. Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary. Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work. Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
+*  __EVENTS__:  Sprint is a container event that consists of all four other events.
+    * Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it.
+    * Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary.
+    * Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work.
+    * Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
+
+ 
+![Scrum Structure ](https://cdn-caeia.nitrocdn.com/LUTxpNrzuFojQWqRONKHCuCbLbYIeSLq/assets/static/optimized/rev-dd239ed/wp-content/uploads/2018/07/353_Infographic_Triangle_R10V2_Branded-01.png)
+
+
+## Scrum Theory
+
+Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.  Scrum employs an iterative, incremental approach to optimize predictability and to control risk. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint. These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
+
+* __TRANSPARENCY__:  The emergent process and work must be visible to those performing the work as well as those receiving the work. With Scrum, important decisions are based on the perceived state of its three formal artifacts. Artifacts that have low transparency can lead to decisions that diminish value and increase risk.
+Transparency enables inspection. Inspection without transparency is misleading and wasteful.
+
+* __INSPECTION__: The Scrum artifacts and the progress toward agreed goals must be inspected frequently and diligently to detect potentially undesirable variances or problems. To help with inspection, Scrum provides cadence in the form of its five events. Inspection enables adaptation. 
+Inspection without adaptation is considered pointless. Scrum events are designed to provoke change.
+* __ADAPTATION__: if any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
+Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+  ![SCRUM PILLARS](https://lh4.googleusercontent.com/FSC5tt6MzXd7POxyo6r-ZNkbIzJ61QQHDj_jHzxad6mxQK9MqheOItQRq2HHKG97nZMsF7SW50DSR5M6EAdJuNX1ltYGh6d1tCgQ9IZnQ-Oef-1Vr1_qX8iWJ85PU4TmMCuLJkj3)
 
 ## Scrum Values
 
 Successful use of Scrum depends on people becoming more proficient in living five values:  
 **Commitment, Focus, Openness, Respect, and Courage**
 
-![Scrum Values](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/ScrumValues-Tabloid.pdf)
+![Scrum Values](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-06/ScrumValues-1000.png)
 The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
+
+# Essential elements of Scrum Framework
 
 ## The Scrum Team
 
@@ -276,21 +263,3 @@ The Definition of Done creates transparency by providing everyone a shared under
 If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
 
 The Developers are required to conform to the Definition of Done. If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
-
-## End Note
-
-Scrum is free and offered in this Guide. The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.
-
-## Acknowledgements
-
-### People
-
-Of the thousands of people who have contributed to Scrum, we should single out those who were instrumental at the start: Jeff Sutherland worked with Jeff McKenna and John Scumniotales, and Ken Schwaber worked with Mike Smith and Chris Martin, and all of them worked together. Many others contributed in the ensuing years and without their help Scrum would not be refined as it is today.
-
-### Scrum Guide History
-
-Ken Schwaber and Jeff Sutherland first co-presented Scrum at the OOPSLA Conference in 1995. It essentially documented the learning that Ken and Jeff gained over the previous few years and made public the first formal definition of Scrum.
-
-The Scrum Guide documents Scrum as developed, evolved, and sustained for 30-plus years by Jeff Sutherland and Ken Schwaber. Other sources provide patterns, processes, and insights that complement the Scrum framework. These may increase productivity, value, creativity, and satisfaction with the results.
-
-The complete history of Scrum is described elsewhere. To honor the first places where it was tried and proven, we recognize Individual Inc., Newspage, Fidelity Investments, and IDX (now GE Medical).
