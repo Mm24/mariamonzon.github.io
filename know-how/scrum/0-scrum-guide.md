@@ -2,7 +2,7 @@
 
 The Definitive Guide to Scrum: The Rules of the Game
 
-November 2020
+![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
 
 © 2020 Ken Schwaber and Jeff Sutherland
 This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at https://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at https://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
