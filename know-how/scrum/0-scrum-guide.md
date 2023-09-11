@@ -16,17 +16,6 @@ Scrum is simple. Try it as is and determine if its philosophy, theory, and struc
 
 Various processes, techniques and methods can be employed within the framework. Scrum wraps around existing practices or renders them unnecessary. Scrum makes visible the relative efficacy of current management, environment, and work techniques, so that improvements can be made.
 
-
-## Essential elements of Scrum Framework
-![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
-
-Scrum framework consists of roles, artifacts, and events. Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt. Let’s deep dive into Scrum.
-
-Let’s begin with roles — there are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. Developers are accountable for creating increments for every Sprint that meets the definition of done. Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
-
-Next, the artifacts — Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product. Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
-
-Now the events — Sprint is a container event that consists of all four other events. Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it. Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary. Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work. Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
 ## Scrum Theory
 
 Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials.
@@ -52,6 +41,19 @@ Inspection without adaptation is considered pointless. Scrum events are designed
 f any aspects of a process deviate outside acceptable limits or if the resulting product is unacceptable, the process being applied or the materials being produced must be adjusted. The adjustment must be made as soon as possible to minimize further deviation.
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+
+## Essential elements of Scrum Framework
+![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
+
+Scrum framework consists of roles, artifacts, and events. Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt. Let’s deep dive into Scrum.
+
+Let’s begin with roles — there are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. Developers are accountable for creating increments for every Sprint that meets the definition of done. Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+
+Next, the artifacts — Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product. Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
+
+Now the events — Sprint is a container event that consists of all four other events. Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it. Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary. Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work. Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
+
+
 
 ## Scrum Values
 
