@@ -43,23 +43,36 @@ f any aspects of a process deviate outside acceptable limits or if the resulting
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. A Scrum Team is expected to adapt the moment it learns anything new through inspection.
 
 ## Essential elements of Scrum Framework
+
 ![scrum overview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*h9iv87c9Lp5aGksmSrRB5g.png)
 
-Scrum framework consists of roles, artifacts, and events. Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt. Let’s deep dive into Scrum.
 
-Let’s begin with roles — there are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. Developers are accountable for creating increments for every Sprint that meets the definition of done. Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+Scrum framework consists of roles, artifacts, and events. 
 
-Next, the artifacts — Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product. Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
+Roles are there to have clear accountability, artifacts are there for transparency, and events are opportunities to inspect and adapt
+
+### Scrum Roles
+
+There are three roles in the Scrum framework. Product Owner, Scrum Master, and Developers. 
+* Product owners are often referred to as value maximizers because they focus on optimizing the value of the work done by the scrum team. 
+* Developers are accountable for creating increments for every Sprint that meets the definition of done. 
+* Scrum Masters are accountable for scrum adoption and the scrum team’s effectiveness.
+
+### Scrum Artifacts
+
+Product Backlog helps everyone, including stakeholders, to understand what’s required to develop or improve the product.
+Sprint Backlog is a plan by and for the developers to accomplish the Sprint Goal. And the Increment is the sum of all the work done by the team so far.
+
+### Scrum Events
 
 Now the events — Sprint is a container event that consists of all four other events. Sprint Planning is deciding why the team needs this Sprint, what they can achieve and how they can achieve it. Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary. Sprint review is to inspect Sprint’s outcome (Increment) and adapt future work. Sprint Retrospective helps the team to inspect themselves and to bring continuous improvement.
-
-
 
 ## Scrum Values
 
 Successful use of Scrum depends on people becoming more proficient in living five values:  
 **Commitment, Focus, Openness, Respect, and Courage**
 
+![Scrum Values](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/ScrumValues-Tabloid.pdf)
 The Scrum Team commits to achieving its goals and to supporting each other. Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. The Scrum Team and its stakeholders are open about the work and the challenges. Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. The Scrum Team members have the courage to do the right thing, to work on tough problems.
 
 These values give direction to the Scrum Team with regard to their work, actions, and behavior. The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. The Scrum Team members learn and explore the values as they work with the Scrum events and artifacts. When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
