@@ -37,7 +37,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="git" width="55" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Jupyter" width="57" height="55"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="57" height="55"/>
-<img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" alt="pytorch" width="57" height="55"/>
+<img src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-flame.svg" alt="pytorch" width="57" height="55"/>
 <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="tensorflow" width="55" height="55"/>
 </p>
 </div>
