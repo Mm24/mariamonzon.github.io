@@ -160,6 +160,21 @@ Data Visualization Bokeh,  Matplotlib Seaborn Pandas
       <td><img alt="Issues" src="https://img.shields.io/github/issues/amosproj/amos2021ss05-3d-viewer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/amosproj/amos2021ss05-3d-viewer?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/pschader/NAMIC-PW24-Multimodel-Medical-Database"><b>Medical Multimdal Database</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pschader/NAMIC-PW24-Multimodel-Medical-Database?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pschader/NAMIC-PW24-Multimodel-Medical-Database?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pschader/NAMIC-PW24-Multimodel-Medical-Database?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pschader/NAMIC-PW24-Multimodel-Medical-Database?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ormir-mids/ormir-mids"><b>MIDS</b></a></td>
+      <td><img alt="Stars" src="https://github.com/ormir-mids/ormir-mids?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://github.com/ormir-mids/ormir-mids?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://github.com/ormir-mids/ormir-mids?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://github.com/ormir-mids/ormir-mids?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
   </tbody>
 </table>   
 </p>
