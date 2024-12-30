@@ -143,7 +143,7 @@ Data Visualization Bokeh,  Matplotlib Seaborn Pandas
 #### Contributed Open Source Repositories 
 
 <!--<details> 
-      <summary>Open source projects stat</summary>
+      <summary>Projects Stats</summary>
 <p>
 -->
 <table>
